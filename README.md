@@ -8,7 +8,7 @@
   </a>
 
 # Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=queges&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
+[![trophy](https://github-profile-trophy.vercel.app/?username=queges&theme=gruvbox&margin-w=10&no-frame=true)](https://github.com/queges)
 
 ## About Me
   - Age: 16
